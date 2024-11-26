@@ -1,13 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package to.pkgdo.list.app;
 
-/**
- *
- * @author USER
- */
+import java.util.Scanner;
+
 public class task_deletion {
-    
+    public static void main(String[] args){
+        System.out.println("=== Delete a Task ===");
+        System.out.print("Enter the task number you want to delete: ");
+        
+    }
 }
